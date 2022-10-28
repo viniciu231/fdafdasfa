@@ -1,4 +1,4 @@
-var ganhador = 0
+var ganhador = 0;
 
 function verificar() {
   if (
