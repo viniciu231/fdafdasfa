@@ -1,0 +1,63 @@
+body {
+    background: gray;
+}
+section {
+    justify-content: center;
+}
+.coluna1 {
+    display: flex;
+}
+.coluna2 {
+    display: flex;
+}
+.coluna3 {
+    display: flex;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+}
+.primeiro {
+    border: 3px solid black;
+    border-top: none;
+    border-left: none;
+}
+.segundo {
+    border: 3px solid black;
+    border-top: none;
+}
+.terceiro {
+    border: 3px solid black;
+    border-top: none;
+    border-right: none;
+}
+.quarto {
+    border: 3px solid black;
+    border-left: none;
+}
+.quinto {
+    border: 3px solid black;
+}
+.sexto {
+    border: 3px solid black;
+    border-right: none;
+    
+}
+.setimo {
+    border: 3px solid black;
+    border-left: none;
+    border-bottom: none;
+}
+.oitavo {
+    border: 3px solid black;
+    border-bottom: none;
+}
+.nono {
+    border: 3px solid black;
+    border-right: none;
+    border-bottom: none;
+}
+
+
+
